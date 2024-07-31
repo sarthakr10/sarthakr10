@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sarthakr10&label=Profile%20views&color=0e75b6&style=flat" alt="sarthakr10" /> </p>
 
-<p align="left"> <a href="https://twitter.com/sarthakr10" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakr10?logo=twitter&style=for-the-badge" alt="sarthakr10"  </p>
+<p align="left"> <a href="https://x.com/sarthakr_10" target="blank"><img src="https://img.shields.io/twitter/follow/sarthakr_10?logo=twitter&style=for-the-badge" alt="sarthakr10"  </p>
 
 - 🔭 I’m currently working on **Doctors-app**
 
