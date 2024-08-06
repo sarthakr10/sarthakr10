@@ -1,6 +1,10 @@
 
 <h1 align="center">Hi 👋, I'm Sarthak Rastogi</h1>
+
 <h3 align="center">A passionate FullStack Developer from India</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sarthakr10" alt="sarthakr10" /></a> </p>
+
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
