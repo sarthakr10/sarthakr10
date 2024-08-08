@@ -17,6 +17,8 @@
 - 🌱 I’m currently learning **Aws and MERN**
 
 - 💬 Ask me about **React , Js**
+  
+- 📝 Take a look at my Portfolio [https://sarthakr10.netlify.app/](https://sarthakr10.netlify.app//)
 
 - 📫 How to reach me **Anigotsar10@gmail.com**
 
